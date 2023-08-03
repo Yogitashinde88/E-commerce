@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[opening cromebrowser]]>
+    </line>
+    <line>
+      <![CDATA[opening cromebrowser]]>
+    </line>
+    <line>
+      <![CDATA[opening cromebrowser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-03T11:11:33 CEST" name="Suite" finished-at="2023-08-03T11:11:48 CEST" duration-ms="15303">
+    <groups>
+    </groups>
+    <test started-at="2023-08-03T11:11:33 CEST" name="Test" finished-at="2023-08-03T11:11:48 CEST" duration-ms="15303">
+      <class name="ecom_Project.Flipcart">
+        <test-method signature="flipcarttest()[pri:0, instance:ecom_Project.Flipcart@6ae5aa72]" started-at="2023-08-03T11:11:33 CEST" name="flipcarttest" finished-at="2023-08-03T11:11:43 CEST" duration-ms="9690" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening cromebrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- flipcarttest -->
+      </class> <!-- ecom_Project.Flipcart -->
+      <class name="ecom_Project.Ebay">
+        <test-method signature="ebaytest()[pri:0, instance:ecom_Project.Ebay@3a93b025]" started-at="2023-08-03T11:11:45 CEST" name="ebaytest" finished-at="2023-08-03T11:11:48 CEST" duration-ms="3030" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening cromebrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ebaytest -->
+      </class> <!-- ecom_Project.Ebay -->
+      <class name="ecom_Project.Amazon">
+        <test-method signature="amazontest()[pri:0, instance:ecom_Project.Amazon@79e2c065]" started-at="2023-08-03T11:11:43 CEST" name="amazontest" finished-at="2023-08-03T11:11:45 CEST" duration-ms="2551" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening cromebrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- amazontest -->
+      </class> <!-- ecom_Project.Amazon -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
